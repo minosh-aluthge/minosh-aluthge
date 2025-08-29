@@ -5,6 +5,12 @@
 - 🔧 Arduino & IoT Enthusiast
 - 💻 C# & .NET Developer
 - 🌱 Currently learning embedded systems and desktop application development
+ <p align="left">
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=minosh-aluthge&style=flat&color=blue"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/minosh-aluthge?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/minosh-aluthge?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/minosh-aluthge"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+</p>
 
 ## 🛠️ Technologies & Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
