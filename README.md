@@ -1,3 +1,5 @@
+<p align="center" ><img  src = "https://github.com/minosh-aluthge/minosh-aluthge/blob/main/logo.gif?raw=true" width = 100px></p>
+
 # Hi there, I'm Minosh! 👋
 
 ## 🚀 About Me
