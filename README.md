@@ -21,7 +21,19 @@
 ![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=minosh-aluthge&show_icons=true&theme=radical)
+<p align="center">
+<table align="center">
+<tr border="none">
+ <td width="50%" align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=minosh-aluthge&show_icons=true&theme=radical"/>
+ </td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=minosh-aluthge&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ## 🔥 Featured Projects
 - 🐟 **[Fish Feeding Machine](https://github.com/minosh-aluthge/fish-feeding-machine)** - Arduino-based automatic fish feeder
