@@ -3,7 +3,7 @@
 # Hi there, I'm Minosh! 👋
 
 ## 🚀 About Me
-- 🎓Cyber Security Undergraduate SLIIT
+- 🎓Cyber Security Undergraduate at SLIIT
 - 🔧 Arduino & IoT Enthusiast
 - 💻 C# & .NET Developer
 - 🌱 Currently learning embedded systems and desktop application development
